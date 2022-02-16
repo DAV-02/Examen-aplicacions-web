@@ -1,0 +1,31 @@
+body {
+    background-color: coral;
+}
+header {
+    text-align: center;
+}
+section.bitcoin {
+    position: absolute; left: 1250px;
+    
+}
+section.etherum {
+    background-color: white;
+    position: relative;top: 200px;
+  }
+img.etherum {
+    position: relative; left: 900px;
+}
+span.etherum {
+    position: absolute; left: 875px; top: 125px;
+}
+section.litecoin {
+    position:absolute; left: 400px; top: 500px;
+}
+footer {
+    background-color: yellow;
+    position: absolute; top: 700px; left: 750;
+    text-align: center;
+}
+span.rojo {
+    color: red;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: coral;
+}
+header {
+    text-align: center;
+}
+input.rojo {
+    color: red;
+}
+span.rojo {
+    color: red;
+    
+}
+footer {
+    text-align: center;
+    background-color: yellow;
+}
